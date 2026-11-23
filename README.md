@@ -8,7 +8,7 @@ It's useful to actually implement the algoritms yourself as a refresher... who r
 
 ## Get Going
 ```bash
-git clone git@github.com:adveres/PySorting.git
+git clone git@github.com:EvilDrLemur/PySorting.git
 cd PySorting
 pip install -r requirements.txt --upgrade
 ```
